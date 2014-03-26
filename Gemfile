@@ -9,7 +9,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass'
-
+gem 'thread_safe', '0.2.0'
 
 group :development, :test do
 	gem 'sqlite3'
